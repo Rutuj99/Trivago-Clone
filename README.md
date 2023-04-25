@@ -16,7 +16,7 @@ Contributors:-
 4) SUMANTH UR
 5) MD.GHUFRAN
 
-## Deployed Link https://majestic-paletas-0904b9.netlify.app/index.html
+## Deployed Link [https://majestic-paletas-0904b9.netlify.app/index.html](https://papaya-druid-787f56.netlify.app/)
 
 
 Login page
