@@ -30,15 +30,15 @@ Compare millions of accommodations and deals. Apply filters to narrow your resul
 
 ![login](https://user-images.githubusercontent.com/122447008/224561094-ae1c417b-79a8-4aeb-9fb6-30b717db4093.png)
 
-- create password
+- Create password
 
 ![create](https://user-images.githubusercontent.com/122447008/224561181-58868388-3b5f-4bf0-aa8b-4b63363142a4.png)
 
-- forget password
+- Forget password
 
 ![forget](https://user-images.githubusercontent.com/122447008/224561208-25291665-af60-488d-af6b-2a495e1358c7.png)
 
-- reset password
+- Reset password
 
 ![reset](https://user-images.githubusercontent.com/122447008/224561246-075d4bf9-e032-4bdf-950d-d4fc97c5a5d5.png)
 
@@ -50,7 +50,7 @@ Compare millions of accommodations and deals. Apply filters to narrow your resul
 
 ![destinations](https://user-images.githubusercontent.com/122447008/224561344-4d6d1b56-7c59-4f1e-887b-268bd2f7eb46.png)
 
-- search bar
+- Search bar
 
 ![search](https://user-images.githubusercontent.com/122447008/224561372-c5cbe031-d673-473d-a04a-6551c030f06c.png)
 
@@ -58,7 +58,7 @@ Compare millions of accommodations and deals. Apply filters to narrow your resul
 
 ![booking](https://user-images.githubusercontent.com/122447008/224561404-09e2884e-8066-4ca7-8dac-ca409b779259.png)
 
-- Booking OTP sent on real email
+- Booking OTP sent on Mail via SMTP
 
 ![OTPbooking](https://user-images.githubusercontent.com/122447008/224561443-3f10d51c-771c-40a6-ba35-10fb45d6837b.png)
 
@@ -77,6 +77,12 @@ Compare millions of accommodations and deals. Apply filters to narrow your resul
 - Payment Done
 
 ![final](https://user-images.githubusercontent.com/122447008/224561612-f7f00bc7-5f54-42bd-8794-ab7d8fa3b3aa.png)
+
+
+## Conclusion
+
+- Overall, our second project in Masai School's Full-Stack Web Development program was a challenging and rewarding experience. We gained valuable experience in web development and worked as a team to create a fully functional website. We are excited to continue learning and building new projects in the future.
+
 
 ## Feedback
 
