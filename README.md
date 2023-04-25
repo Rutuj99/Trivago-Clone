@@ -9,7 +9,7 @@ Compare millions of accommodations and deals. Apply filters to narrow your resul
 
 
 
-Contributors:-
+- Contributors:-
 1) MOHIB KHAN 
 2) RUTUJ GOPALE
 3) MITHUN KUMAR SEN
@@ -80,4 +80,4 @@ Contributors:-
 
 ## Feedback
 
-If you have any feedback, please reach out to rutujbg99@gmail.com
+- If you have any feedback, please reach out to rutujbg99@gmail.com
