@@ -24,7 +24,7 @@ Compare millions of accommodations and deals. Apply filters to narrow your resul
 ## 🛠 Technologies Used
  [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind)](https://skillicons.dev)    
  
- 
+ ## Screenshots
 
 - Login page
 
